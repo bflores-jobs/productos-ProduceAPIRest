@@ -26,6 +26,10 @@ _Para esto cree una APIRest que consulta una Base de datos y publica los  produc
 ## Versionado 📌
 * _Versión 1_
 
+## Despliegue 📦
+* _https://productos-produceapirest.herokuapp.com/api/v1/productos_
+* _https://productos-produceapirest.herokuapp.com/api/v1/categorias_
+
 ## Ejemplos 📋
 ### GET Productos
 * GET /api/v1/productos                         
